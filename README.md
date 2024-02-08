@@ -25,6 +25,8 @@
 
 ![Constituency](https://github.com/varma-prasad/Lok-sabha-Analysis/assets/108605375/f45d148c-9d65-441a-9ef4-c26ffb75bb28)
 
+----
+
 # Candidate Profile
 
 Answer following questions relevant about the election contendars of General Election
@@ -37,7 +39,22 @@ Answer following questions relevant about the election contendars of General Ele
 
 ![Candidate Profile](https://github.com/varma-prasad/Lok-sabha-Analysis/assets/108605375/f8ec6788-5793-4911-af4b-57ae3aee239d)
 
+----
 
+## 🛠 Tools used
+![](https://img.shields.io/badge/Power_BI-v2.124.2028.0-blue)
+![](https://img.shields.io/badge/Excel-v2023-orange)
+
+## Authors
+
+- [Varma Prasad S](https://github.com/varma-prasad)
+
+## 🛠 Skills
+SQL, ETL, Python, Power BI...
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varma-prasad-s/)
 
 
 
