@@ -1,2 +1,44 @@
 # Lok-sabha-Analysis
-2014 &amp; 2019 General Election Analytics by Power BI
+
+## Table oof Contents
+
+* [Overview](#overview)
+* [Constituency Analysis](#constituency-analysis) - [SnapShot](#snapshot1)
+* [Candidate Profile](#candidate-profile) - [SnapShot](#snapshot2)
+
+### Overview
+
+* Get Election Data of Lok sabha (2014 & 2019) from Election Commission of India(ECI)
+* Prepare Data Model(cleanse & modify) and manage relationships in the semantic model of Power BI using Power Query
+* Create Dashboard using various visaulisation elements, cards, slicer etc using Measures, Calculated columns & DAX
+* Publish with community to devise strategies or gain information about their respective Constituencies
+
+# Constituency Analysis
+
+ Compare election data of 2014 and 2019 across the state, across the PArliamnent constituence and even across the assembly constituency and find answeres to the following questions:
+ 
+* How many contestants are present in the election fight?
+* Who are the Top performers of the particular lok sabha constituency/ Assembly Constituency?
+* What is the Margin between the Top performing candidates
+
+# SnapShot1
+
+![Constituency](https://github.com/varma-prasad/Lok-sabha-Analysis/assets/108605375/f45d148c-9d65-441a-9ef4-c26ffb75bb28)
+
+# Candidate Profile
+
+Answer following questions relevant about the election contendars of General Election
+
+* What is the age profile of the candidates?
+* Count of candidates against geneder, category?
+* Compare these dynamics in 2014 & 2019?
+
+# SnapShot2
+
+![Candidate Profile](https://github.com/varma-prasad/Lok-sabha-Analysis/assets/108605375/f8ec6788-5793-4911-af4b-57ae3aee239d)
+
+
+
+
+
+
