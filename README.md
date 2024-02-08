@@ -1,6 +1,6 @@
 # Lok-sabha-Analysis
 
-## Table oof Contents
+## Table of Contents
 
 * [Overview](#overview)
 * [Constituency Analysis](#constituency-analysis) - [SnapShot](#snapshot1)
