@@ -15,11 +15,11 @@
 
 # Constituency Analysis
 
- Compare election data of 2014 and 2019 across the state, across the PArliamnent constituence and even across the assembly constituency and find answeres to the following questions:
+ Compare election data of 2014 and 2019 across the state, across the Parliamnent constituence, even across the assembly constituency and find answeres to the following questions:
  
-* How many contestants are present in the election fight?
+* How many contestants are present in the election?
 * Who are the Top performers of the particular lok sabha constituency/ Assembly Constituency?
-* What is the Margin between the Top performing candidates
+* What is the Margin between the Top performing candidates?
 
 # SnapShot1
 
