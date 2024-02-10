@@ -1,6 +1,6 @@
 # Lok-sabha-Analysis
 
-Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiYmQ2YWFhMTMtYjBkOC00Y2RhLWI1NjEtODNmOTY5MTdmN2MxIiwidCI6IjZhYjJkZTAwLTYxZjYtNDVmYS1iZmM4LTcxYTY4MDUwYjg0NyJ9 
+Dashboard Link: [Press this link to go to power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmQ2YWFhMTMtYjBkOC00Y2RhLWI1NjEtODNmOTY5MTdmN2MxIiwidCI6IjZhYjJkZTAwLTYxZjYtNDVmYS1iZmM4LTcxYTY4MDUwYjg0NyJ9)
 
 ## Table of Contents
 
