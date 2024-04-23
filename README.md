@@ -7,6 +7,7 @@ Dashboard Link: [Press this link to go to power BI Dashboard](https://app.powerb
 * [Overview](#overview)
 * [Constituency Analysis](#constituency-analysis) - [SnapShot](#snapshot1)
 * [Candidate Profile](#candidate-profile) - [SnapShot](#snapshot2)
+* [About Author](#authors)
 
 ### Overview
 
